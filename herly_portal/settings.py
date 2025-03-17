@@ -79,9 +79,9 @@ WSGI_APPLICATION = 'herly_portal.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'herly_db',
-        'USER': 'herlystack',
-        'PASSWORD': '08108970717@Halira',
+        'NAME': '',
+        'USER': '',
+        'PASSWORD': '',
         'HOST': 'localhost',  
         'PORT': '5432',  
     }
