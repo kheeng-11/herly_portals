@@ -2,7 +2,7 @@
 
 ## Overview
 
-HERLY Stack Portals is a **Django-based** school management system currently in the **development stage**. It is designed for **primary and secondary schools** and provides role-based access for **students, teachers, and administrators**, enabling efficient management of school operations, student records, attendance, and academic performance.
+HERLY Stack Portals is a **Django-based** school management system currently in the **development stage**. It is designed for **primary and secondary schools** and provides role-based access for **students, teachers,Parents and administrators**, enabling efficient management of school operations, student records, attendance, and academic performance.
 
 The project utilizes a pre-made template from **ThemeWagon (KaiAdmin: ************************[https://www.themekita.com/](https://www.themekita.com/)************************)**.
 
